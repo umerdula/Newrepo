@@ -19,7 +19,7 @@
             </span>
         </h2>
         <a href="login">
-            Click Me
+            Gooooooo
         </a>
     </div>
 </div>
